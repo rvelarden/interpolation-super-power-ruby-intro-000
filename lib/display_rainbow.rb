@@ -8,4 +8,3 @@ puts "#{color[G]}"
 puts "#{color[B]}"
 puts "#{color[I]}"
 puts "#{color[V]}"
-
